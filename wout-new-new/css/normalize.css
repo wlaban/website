@@ -435,14 +435,14 @@ th {
 
 .diagonal-split-background{
   background-color: #ffffff;
-  height: 200px;
-  background-image: -webkit-linear-gradient(70deg, #A8D0E3 50%, #ffffff 50%);
+  height: 550px;
+  background-image: -webkit-linear-gradient(80deg, #A8D0E3 30%, #ffffff 60%);
 }
 
 .diagonal-split-background-reverse {
   background-color: #ffffff;
-  height: 500px;
-  background-image: -webkit-linear-gradient(-70deg, #A8D0E3 50%, #ffffff 50%); 
+  height: 1200px;
+  background-image: -webkit-linear-gradient(-70deg, #A8D0E3 30%, #ffffff 60%); 
 }
 
 .hello {
@@ -452,6 +452,8 @@ th {
 
 .copy {
   color: #ffffff;
+  max-width: 340px;
+   margin: auto;
   padding-left: 20px;
   padding-right: 20px;
 }
