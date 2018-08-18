@@ -429,31 +429,43 @@ th {
 
 
 .profilepic{
-  padding-top: 80px;
+  padding-top: 100px;
   max-width: 200px;
+
+}
+
+.picture{
+  margin-bottom: -180px;
 }
 
 .diagonal-split-background{
   background-color: #ffffff;
   height: 550px;
+  max-width: 550px;
+  margin: auto;
   background-image: -webkit-linear-gradient(80deg, #A8D0E3 30%, #ffffff 60%);
 }
 
 .diagonal-split-background-reverse {
   background-color: #ffffff;
   height: 1200px;
+  max-width: 550px;
+  margin: auto;
   background-image: -webkit-linear-gradient(-70deg, #A8D0E3 30%, #ffffff 60%); 
 }
 
 .hello {
   background-color: #A8D0E3;
   height: 1000px;
+  margin: auto;
+  max-width: 550px;
+  margin-top: -100px; 
 }
 
 .copy {
   color: #ffffff;
   max-width: 340px;
-   margin: auto;
+  margin: auto;
   padding-left: 20px;
   padding-right: 20px;
 }
