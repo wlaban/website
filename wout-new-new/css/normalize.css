@@ -454,6 +454,23 @@ th {
   background-image: -webkit-linear-gradient(-70deg, #A8D0E3 30%, #ffffff 60%); 
 }
 
+.diagonal-split-background-red {
+  background-color: #ffffff;
+  height: 550px;
+  max-width: 550px;
+  margin: auto;
+  background-image: -webkit-linear-gradient(80deg, #FF7070 30%, #ffffff 60%);
+
+}
+
+.diagonal-split-background-reverse-red {
+  background-color: #ffffff;
+  height: 550px;
+  max-width: 550px;
+  margin: auto;
+  background-image: -webkit-linear-gradient(-80deg, #FF7070 30%, #ffffff 60%); 
+}
+
 .hello {
   background-color: #A8D0E3;
   height: 1000px;
@@ -468,4 +485,8 @@ th {
   margin: auto;
   padding-left: 20px;
   padding-right: 20px;
+}
+
+.section2 {
+  padding-bottom: 500px;
 }
