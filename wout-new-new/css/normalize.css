@@ -487,10 +487,27 @@ th {
   padding-right: 20px;
 }
 
+.introduction {
+  color: #000000;
+  max-width: 340px;
+  margin: auto;
+  padding-top: 150px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
 .section2 {
   padding-top: 50px;
   background-color: #EFCD88;
   max-width: 550px;
+  margin: auto;
+}
+
+.section3 {
+  padding-top: 50px;
+  background-color: #AFFD88;
+  max-width: 550px;
+  padding-bottom: 550px;
   margin: auto;
 }
 
